@@ -1,1 +1,1 @@
-# Sugar-Beet-3D-Reference-Model
+# 3D-Reference-Model-for-Plant-Phenotyping
